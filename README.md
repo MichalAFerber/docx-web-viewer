@@ -80,6 +80,7 @@ rendered; content controls show their current values.
 | [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) | 0.3.3 | Apache-2.0 |
 | [JSZip](https://github.com/Stuk/jszip) | 3.10.1 | MIT |
 | [pako](https://github.com/nodeca/pako) (bundled in JSZip) | 1.0.x | MIT |
+| [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) (subset, headings) | — | SIL OFL-1.1 |
 
 The file-type icon (favicon and header icon) is from
 [vscode-icons](https://github.com/vscode-icons/vscode-icons) (MIT). Analytics by
