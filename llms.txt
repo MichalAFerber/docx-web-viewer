@@ -1,0 +1,13 @@
+# DOCX Viewer
+
+> A fast, single-file Word document viewer. Drop a .docx (or .docm/.dotx) to view it in your browser — formatting, tables and images intact, nothing uploaded.
+
+The viewer is one self-contained HTML file (no build step) and works offline. Files never leave the visitor's device — no uploads, no accounts, no server-side processing.
+
+## Links
+
+- [Open the viewer](https://docx-viewer.us/)
+- [GitHub](https://github.com/MichalAFerber/docx-web-viewer): Source (single index.html)
+- [File Viewer family hub](https://file-viewer.us/): All viewers in the family
+- [Privacy Policy](https://file-viewer.us/privacy.html)
+- [Terms of Use](https://file-viewer.us/terms.html)
